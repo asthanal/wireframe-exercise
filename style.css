@@ -66,6 +66,7 @@ section div p {
     font-size: 18px;
     font-style: italic;
     line-height: 24px;
+    color: gray;
 }
 
 button {
